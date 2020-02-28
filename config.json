@@ -1,0 +1,5 @@
+{
+    "Token": "BottokenHere!!!",
+    "BotPrefix": "!",
+    "FirestoreCredential": "FirestoreCredential.json here!!!"
+}
